@@ -1,5 +1,5 @@
-import {Plugin} from "/prosemirror/dist/prosemirror-state.es.js"
-import {dropPoint} from "/prosemirror/dist/prosemirror-transform.es.js"
+import {Plugin} from "/prosemirror/devimports/prosemirror-state.es.js"
+import {dropPoint} from "/prosemirror/devimports/prosemirror-transform.es.js"
 
 // :: (options: ?Object) → Plugin
 // Create a plugin that, when added to a ProseMirror instance,
